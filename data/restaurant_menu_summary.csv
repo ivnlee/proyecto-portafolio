@@ -1,0 +1,16 @@
+,restaurant_id,category,name,description,price
+0,1,Extra Large Pizza,Extra Large Meat Lovers,Whole pie.,15.99 USD
+1,1,Extra Large Pizza,Extra Large Supreme,Whole pie.,15.99 USD
+2,1,Extra Large Pizza,Extra Large Pepperoni,Whole pie.,14.99 USD
+3,1,Extra Large Pizza,Extra Large BBQ Chicken &amp; Bacon,Whole Pie,15.99 USD
+4,1,Extra Large Pizza,Extra Large 5 Cheese,Whole pie.,14.99 USD
+5,1,Extra Large Pizza,Extra Large Pepperoni Slice,Slice.,3.99 USD
+6,1,Extra Large Pizza,Extra Large BBQ Chicken &amp; Bacon Slice,,3.99 USD
+7,1,Extra Large Pizza,Extra Large Meat Lovers Slice,Slice.,3.99 USD
+8,1,Extra Large Pizza,Extra Large Supreme Slice,Slice.,3.99 USD
+9,1,Extra Large Pizza,Extra Large 5 Cheese Slice,Slice.,3.99 USD
+10,1,Jumbo Wings,Jumbo Chicken Wings Five Pieces,,8.99 USD
+11,1,Jumbo Wings,Jumbo Chicken Wings Seven Pieces,,10.99 USD
+12,1,Jumbo Wings,Jumbo Chicken Wings Nine Pieces,,12.99 USD
+13,1,Jumbo Wings,Jumbo Chicken Wings Twelve Pieces,,15.99 USD
+14,1,Spicy Jumbo Wings,Jumbo Spicy Chicken Wings Five Pieces,,8.99 USD
