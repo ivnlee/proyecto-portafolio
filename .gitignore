@@ -130,3 +130,5 @@ dmypy.json
 
 # other
 /data/restaurant-menus.csv 
+/data/yelp_reviews_subset.csv
+/data/yelp_business.json
